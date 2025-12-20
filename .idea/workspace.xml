@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b829d477-42e4-4452-9c09-2c98d1849da8" name="Changes" comment="files">
-      <change afterPath="$PROJECT_DIR$/filterevenno.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finderrror.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listexamples.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listoperations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samedup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stringsplittingques.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listexamples.txt" beforeDir="false" afterPath="$PROJECT_DIR$/listexamples.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,19 +43,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.binarysearch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bubsort.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.insertionsort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.linearsearch.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.binarysearch.executor": "Run",
+    "Python.bubsort.executor": "Debug",
+    "Python.filterevenno.executor": "Run",
+    "Python.insertionsort.executor": "Run",
+    "Python.linearsearch.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
